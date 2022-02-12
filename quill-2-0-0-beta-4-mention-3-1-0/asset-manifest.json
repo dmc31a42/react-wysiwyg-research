@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quill-2-0-0-beta-4-mention-3-1-0/static/css/main.e21da15b.css",
-    "main.js": "/quill-2-0-0-beta-4-mention-3-1-0/static/js/main.803f12c6.js",
-    "static/js/787.8d00b649.chunk.js": "/quill-2-0-0-beta-4-mention-3-1-0/static/js/787.8d00b649.chunk.js",
-    "index.html": "/quill-2-0-0-beta-4-mention-3-1-0/index.html",
-    "main.e21da15b.css.map": "/quill-2-0-0-beta-4-mention-3-1-0/static/css/main.e21da15b.css.map",
-    "main.803f12c6.js.map": "/quill-2-0-0-beta-4-mention-3-1-0/static/js/main.803f12c6.js.map",
-    "787.8d00b649.chunk.js.map": "/quill-2-0-0-beta-4-mention-3-1-0/static/js/787.8d00b649.chunk.js.map"
+    "main.css": "/react-wysiwyg-research/quill-2-0-0-beta-4-mention-3-1-0/static/css/main.e21da15b.css",
+    "main.js": "/react-wysiwyg-research/quill-2-0-0-beta-4-mention-3-1-0/static/js/main.89646dbf.js",
+    "static/js/787.8d00b649.chunk.js": "/react-wysiwyg-research/quill-2-0-0-beta-4-mention-3-1-0/static/js/787.8d00b649.chunk.js",
+    "index.html": "/react-wysiwyg-research/quill-2-0-0-beta-4-mention-3-1-0/index.html",
+    "main.e21da15b.css.map": "/react-wysiwyg-research/quill-2-0-0-beta-4-mention-3-1-0/static/css/main.e21da15b.css.map",
+    "main.89646dbf.js.map": "/react-wysiwyg-research/quill-2-0-0-beta-4-mention-3-1-0/static/js/main.89646dbf.js.map",
+    "787.8d00b649.chunk.js.map": "/react-wysiwyg-research/quill-2-0-0-beta-4-mention-3-1-0/static/js/787.8d00b649.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e21da15b.css",
-    "static/js/main.803f12c6.js"
+    "static/js/main.89646dbf.js"
   ]
 }
